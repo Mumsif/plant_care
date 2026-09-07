@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "plant_care (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome"
+    },
+    {
+      "name": "plant_care (Edge)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "edge"
+    }
+  ]
+}
