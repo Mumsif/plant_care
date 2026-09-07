@@ -1,4 +1,4 @@
-# plant_care
+# Plant Care
 
 A new Flutter project.
 
